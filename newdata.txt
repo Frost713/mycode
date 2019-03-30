@@ -1,7 +1,0 @@
-this test 1
-ok
-123
-git is free software.
-git is a distributed vesion control system.
-Git is vesion control system.
-
